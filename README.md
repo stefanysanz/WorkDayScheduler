@@ -4,3 +4,4 @@ I created a simple calendar application that allows the user to save events for 
 
 
 <img src="workday.jpg" alt="schedule">
+<img src="workday2.jpg" alt="schedule2">
