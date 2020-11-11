@@ -5,6 +5,7 @@ html {
 
 th {
   background-color: white;
+  color: #484848
 }
 
 textarea {
@@ -23,6 +24,7 @@ p {
 #title-date {
   font-style: italic;
   font-family: 'Lucida Sans Unicode';
+  color: #484848
 }
 
 tr {
@@ -31,4 +33,17 @@ tr {
 
 #title-year {
   font-family: 'Lucida Sans Unicode';
+  color: #484848
+}
+
+#title-time {
+  color: #484848;
+}
+
+button {
+  color: #484848;
+}
+
+textarea {
+  block-size: 75px;
 }
